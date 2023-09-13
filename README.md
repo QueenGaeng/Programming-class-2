@@ -1,2 +1,9 @@
 # Programming-class-2
-//TEST TEXT
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "hello world" << endl;
+    return 0;
+}
